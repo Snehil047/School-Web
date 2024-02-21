@@ -13,7 +13,7 @@
      </div>
 
 
-     <section class="why-choose mt-5">
+     <section class="why-choose mt-md-5">
          <div class="container">
              <div class="row">
                  <div class="col-sm-12 col-md-6">
@@ -21,7 +21,7 @@
                          <div class="icon"><i class="fa fa-book" aria-hidden="true"></i></div>
                          <div class="list-cnt">
                              <h3>
-                                 <font style="font-size: 28px;font-weight:300;">Admission 2023-24</font> <span><a href="downloads/files/n5d3aa28f38e88.pdf" target="_blank" style="color:#1e5639;">Click here</a></span>
+                                 <font ">Admission 2023-24</font> <span><a href="" target="_blank" style="color:#1e5639;">Click here</a></span>
                              </h3>
                              <p>Admissions is open to all the classes from Pre-Nursery, Nursery, Prep, Class I to XII for Day Scholars and from class V to XII for Boarders.</p>
                          </div>
@@ -31,7 +31,7 @@
                          <div class="icon"><i class="fa fa-graduation-cap" aria-hidden="true"></i></div>
                          <div class="list-cnt">
                              <h3>
-                                 <font style="font-size: 28px;font-weight: 300;">Prospectus</font> <span><a href="downloads/prospectus-2019.pdf" target="_blank">Click here</a></span>
+                                 <font ">Prospectus</font> <span><a href="" target="_blank">Click here</a></span>
                              </h3>
                              <p>Click on the link above to find out more about Delhi Public School Bilaspur.</p>
                          </div>
@@ -46,7 +46,7 @@
                     -->
                          <div class="list-cnt">
                              <h3>
-                                 <font style="font-size: 28px;font-weight: 300;">Career & Guidance Cell</font> <span><a href="careerguidance-cell.html">Click here</a></span>
+                                 <font ">Career & Guidance Cell</font> <span><a href="">Click here</a></span>
                              </h3>
                              <p>The Career guidance and counselling programme at DPS Bilaspur aims to help students make more informed and better educational and career choices. </p>
                          </div>
@@ -56,7 +56,7 @@
 
                  <div class="col-sm-12 col-md-6 " style="padding-top:30px">
                      <div class="choose-cnt">
-                         <h2 style="font-weight:300;">Welcome to <span style="color:#FFCC33;font-weight:300;font-size:35px;">GIS, Bilaspur</span> </h2>
+                         <h2>Welcome to <span>GIS, Bilaspur</span> </h2>
                          <p align="justify">Gurukul International School, Janjgir is run by MARS EDUCATION SOCIETY, Janjgir with firm belief that children are valuable assets for our country and we need to invest in their future adequately. Invest not only monetarily however investment in terms of quality education, good habits and better understanding of the challenges upcoming in their future We are committed to provide value based education to the children of our school. </p>
 
                          <div class="equipmets">
@@ -139,7 +139,7 @@
                                  <a href="#">Read More <i class="fa-solid fa-arrow-right"></i></a>
                              </div>
                              <div class="col-md-6 head-row " data-aos="fade-left">
-                                 <img src="img/head.jpg" alt="">
+                                 <a href="#"><img src="img/head.jpg" alt=""></a>
                              </div>
                          </div>
                      </div>
@@ -152,7 +152,7 @@
                                  <a href="#">Read More <i class="fa-solid fa-arrow-right"></i></a>
                              </div>
                              <div class="col-md-6 head-row" data-aos="fade-left">
-                                 <img src="img/chair.jpg" alt="">
+                                 <a href="#"><img src="img/chair.jpg" alt=""></a>
                              </div>
                          </div>
                      </div>
@@ -241,14 +241,14 @@
      </div>
      <!-- populer__section__end-->
      <!-- counter__section__start -->
-     <div class="counterarea sp_bottom_100 sp_top_50" style="">
+     <div class="counterarea sp_bottom_100 sp_top_50">
          <div class="container">
              <div class="aboutarea__button text-center">
                  <div class="default__small__button">Our Goals</div>
                  <p class="mb-5" style="font-size: 18px;font-family: math;color: black;font-weight: 700;">Here you can review some statistics about our School .</p>
              </div>
 
-             <div class="row">
+             <div class="row counterarea-mob">
                  <div class="col-xl-4 col-lg-3 col-md-6 col-sm-6 col-12" data-aos="fade-up">
                      <div class="counterarea__text__wraper">
                          <div class="counter__img">
@@ -314,9 +314,9 @@
 
 
      <section>
-         <div class="container justify-content-center">
+         <div class="container justify-content-center  col-md-12 col-sm-12 col-12 ">
              <div class="row">
-                 <div class="col-md-3 card-1 ">
+                 <div class="col-md-3 col-sm-12 card-1 ">
                      <div class="card-top-1 card-top-2">
                          <h4 class="text-center"><i class="fa-solid fa-scroll"></i> Announcements</h4>
                      </div>
@@ -347,7 +347,7 @@
                          </div>
                      </marquee>
                  </div>
-                 <div class="col-md-3 offset-1 card-1 card-2">
+                 <div class="col-md-3 col-sm-12 offset-1 card-1 card-2">
                      <div class="card-top-1">
                          <h4 class="text-center"><i class="fa-solid fa-award"></i> Achievements</h4>
                      </div>
@@ -378,7 +378,7 @@
                          </div>
                      </marquee>
                  </div>
-                 <div class="col-md-3 offset-1 card-1 card-3">
+                 <div class="col-md-3 col-sm-12 offset-1 card-1 card-3">
                      <div class="card-top-1 card-top-2">
                          <h4 class="text-center"><i class="fa-solid fa-calendar-days"></i> Upcoming Events</h4>
                      </div>
@@ -525,7 +525,7 @@
      </section> -->
      <!-- gallery -->
 
-     <section class="gal-sec">
+     <section class="gal-sec" style="background-image:url('img/gal-bg-4.jpg')">
 
          <div class="container mt-5 gallery-sec">
              <div class="row pt-3">
@@ -541,7 +541,7 @@
                  <!-- <img src="img/gallery/back.png" id="backBtn" /> -->
                  <p id="backBtn" style="font-size: 28px"><i class="fa-solid fa-angle-left"></i></p>
 
-                 <div class="gallery">
+                 <div class="gallery ">
 
                      <div>
                      <a href="img/gallery/1.JPG" data-lightbox="mygallery"><span><img src="img/gallery/1.JPG" /></span></a>

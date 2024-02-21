@@ -136,7 +136,7 @@
                         <div class="headerarea__right">
                         </div>
                         <div class="mobile-off-canvas">
-                            <a class="mobile-aside-button" href="#"><i class="icofont-navigation-menu"></i></a>
+                            <a class="mobile-aside-button" href="#"><i class="icofont-navigation-menu" style="color:#00a5db"></i></a>
                         </div>
                     </div>
                 </div>

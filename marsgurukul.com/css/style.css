@@ -2238,7 +2238,7 @@ Mobile Menu
 }
 
 .mobile-logo img {
-  max-width: 150px;
+  max-width: 80px;
 }
 
 .mobile-off-canvas .mobile-aside-button:hover {
@@ -4878,6 +4878,10 @@ Popular Area
   background: var(--primaryColor);
   transform: translateY(-5px);
 }
+.single__service h3:hover {
+  background: var(--primaryColor);
+  transform: translateY(-5px);
+}
 .single__service:hover .service__small__img svg {
   opacity: 1;
 }
@@ -4894,7 +4898,10 @@ Popular Area
   color: var(--whiteColor);
 }
 .single__service:hover .service__content h3 a:hover {
-  color: var(--secondaryColor);
+  color: var(--whiteColor);
+}
+.single__service:hover .service__content h3:hover {
+  color: var(--whiteColor);
 }
 .single__service:hover .service__content p {
   color: var(--whiteColor);
@@ -4915,6 +4922,11 @@ Popular Area
   font-family: var(--headingFont);
   transition: var(--transition);
 }
+.single__service:hover .service__content h3 {
+  color: white;
+  font-family: var(--headingFont);
+  transition: var(--transition);
+}
 
 .populerarea__2 {
   background-color: var(--lightGrey10);
@@ -4931,6 +4943,10 @@ Popular Area
   text-align: center;
 }
 .populerarea__2 .service__content h3:hover {
+  color: white;
+}
+
+.service__content .service__content__2 h3:hover {
   color: white;
 }
 .populerarea__2 .service__button a:hover {
@@ -12926,6 +12942,7 @@ Footer Area
 @media (max-width: 767px) {
   .footerarea__wrapper .footerarea__inner {
     margin-top: 20px;
+    margin-left: 50px;
   }
 }
 .footerarea__wrapper .footerarea__inner .footerarea__heading {
