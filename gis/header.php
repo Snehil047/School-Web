@@ -29,6 +29,7 @@
     <script src="https://kit.fontawesome.com/dd6927e325.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
     <script>
         AOS.init({
             duration: 900,

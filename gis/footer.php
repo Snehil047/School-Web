@@ -36,13 +36,16 @@
                                     <a href="#">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="#">Contact Us</a>
+                                    <a href="#">Academics</a>
                                 </li>
                                 <li>
                                     <a href="#">Gallery</a>
                                 </li>
                                 <li>
-                                    <a href="#">School Profile</a>
+                                    <a href="#">Facilities</a>
+                                </li>
+                                <li>
+                                    <a href="#">Contact Us</a>
                                 </li>
                             </ul>
                         </div>
@@ -146,6 +149,31 @@
         })
     })
 </script>
+
+<script>$(document).ready(function(){
+
+$(".filter-button").click(function(){
+    var value = $(this).attr('data-filter');
+    
+    if(value == "all")
+    {
+        $('.filter').show('1000');
+    }
+    else
+    {
+
+        $(".filter").not('.'+value).hide('3000');
+        $('.filter').filter('.'+value).show('3000');
+        
+    }
+});
+
+if ($(".filter-button").removeClass("active")) {
+$(this).removeClass("active");
+}
+$(this).addClass("active");
+
+});</script>
 
 <script>
         let scrollContainer = document.querySelector(".gallery");

@@ -133,26 +133,26 @@
                      <div class="col-md-6">
                          <div class="row mesg text-center">
                              <div class="col-sm-12 mt-5 mb-3">
-                                 <h3>Message From The Headmaster</h3>
+                                 <h3>Message From The President</h3>
                              </div>
                              <div class="col-md-6 d-flex read-more" data-aos="fade-right">
                                  <a href="#">Read More <i class="fa-solid fa-arrow-right"></i></a>
                              </div>
                              <div class="col-md-6 head-row " data-aos="fade-left">
-                                 <a href="#"><img src="img/head.jpg" alt=""></a>
+                                 <a href="#"><img src="img/rajesh.jpg" alt=""></a>
                              </div>
                          </div>
                      </div>
                      <div class="col-md-6">
                          <div class="row mesg text-center">
                              <div class="col-sm-12 mt-5 mb-3">
-                                 <h3>Message From The Chairman</h3>
+                                 <h3>Message From The Vice President</h3>
                              </div>
                              <div class="col-md-6 d-flex read-more " data-aos="fade-right">
                                  <a href="#">Read More <i class="fa-solid fa-arrow-right"></i></a>
                              </div>
                              <div class="col-md-6 head-row" data-aos="fade-left">
-                                 <a href="#"><img src="img/chair.jpg" alt=""></a>
+                                 <a href="#"><img src="img/satish.jpg" alt=""></a>
                              </div>
                          </div>
                      </div>

@@ -1,23 +1,23 @@
 <!-- topbar__section__start -->
 <div class="topbararea topbararea--2">
     <div class="">
-    <div class="top-nav">
-              <ul>
+        <div class="top-nav">
+            <ul>
                 <li><a href="#"><i class="fa-solid fa-house"></i> Home</a></li>
-                <li><a href="#" class="disclosure">Mandatory Public Disclosure</a></li>
+                <li><a href="disclosure.php" class="disclosure"> CBSE Mandatory Disclosure</a></li>
                 <li><a href="#" class="phone"><i class="fa-solid fa-phone-volume"></i> +91-8184071000</a></li>
                 <li><a href="#" class="whats"><i class="fa-brands fa-whatsapp"></i> +91-8184072000</a></li>
                 <li><a href="#"><i class="fa-regular fa-envelope"></i> info@marsgurukul.com</a></li>
                 <li><a href="#" class="primary">Primary Wing</a></li>
-                <li><a href="#" class="apply">Apply Online</a></li>
+                <li><a href="online-admission.php" class="apply">Apply Online</a></li>
                 <li>
-                  <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                    <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
                 </li>
                 <li>
-                  <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                    <a href="#"><i class="fa-brands fa-facebook"></i></a>
                 </li>
-              </ul>
-            </div>
+            </ul>
+        </div>
         <!-- <div class="row">
             <div class=" col-md-3">
                 <div class="topbar__left">
@@ -81,42 +81,53 @@
                                 <li class="mega__menu position-static">
                                     <a class="headerarea__has__dropdown" href="index.php">Home </a>
                                 </li>
-                                <li class="mega__menu position-static">
-                                    <a class="headerarea__has__dropdown" href="index.php">School Profile (CBSE) </a>
-                                </li>
+
                                 <li><a class="headerarea__has__dropdown" href="">About Us
                                         <i class="icofont-rounded-down"></i>
                                     </a>
                                     <ul class="headerarea__submenu">
-                                        <li><a href="">Meet Our Directors</a></li>
-                                        <li><a href="">Principal’s Desk</a></li>
-                                        <li><a href="">Achievements</a></li>
-                                        <li><a href="">Our Facilities</a></li>
-                                        <li><a href="">Gallery</a></li>
-                                        <li><a href="">Academic Staff</a></li>
+                                        <li><a href="director.php">Meet Our Directors</a></li>
+                                        <li><a href="achievements.php">Achievements</a></li>
+                                        <li><a href="#">Academic Staff</a></li>
+                                    </ul>
+                                </li>
+                                <li class="headerarea__has__dropdown">
+                                    <a class="headerarea__has__dropdown" href="index.php">Facilities
+                                        <i class="icofont-rounded-down"></i></a>
+                                    <ul class="headerarea__submenu">
+                                        <li><a href="">Campus Overview</a></li>
+                                        <li><a href="">Smart Classrooms</a></li>
+                                        <li><a href="">Labs</a></li>
+                                        <li><a href="">Library</a></li>
+                                        <li><a href="">Transport</a></li>
+                                        <li><a href="">Welness Center</a></li>
                                     </ul>
                                 </li>
                                 <li><a class="headerarea__has__dropdown" href="">Academics
                                         <i class="icofont-rounded-down"></i>
                                     </a>
                                     <ul class="headerarea__submenu">
-                                        <li><a href="">Online Admission Form</a></li>
+                                        <li><a href="online-admission.php">Online Admission Form</a></li>
                                         <li><a href="">Admissions</a></li>
                                         <li><a href="">Fees</a></li>
                                         <li><a href="">Mess fee</a></li>
                                         <li><a href="">Fee Online</a></li>
                                     </ul>
                                 </li>
-                                <li><a class="headerarea__has__dropdown" href="">Important
-                                        <i class="icofont-rounded-down"></i>
+                                <li><a class="headerarea__has__dropdown" href="gallery.php">Gallery
                                     </a>
-                                    <ul class="headerarea__submenu">
-                                        <li><a href="">CIRCULAR</a></li>
-                                        <li><a href="">Daily Class Log May Month</a></li>
-                                    </ul>
                                 </li>
                                 <li class="mega__menu position-static">
-                                    <a class="headerarea__has__dropdown" href="contact.php">Contact Us </a>
+                                    <a class="headerarea__has__dropdown" href="contact.php">Hostel</a>
+                                </li>
+                                <li class="headerarea__has__dropdown">
+                                    <a class="headerarea__has__dropdown" href="contact.php">Contact Us
+                                        <i class="icofont-rounded-down"></i></a>
+                                    <ul class="headerarea__submenu">
+                                        <li><a href="location_map.php">Location Map</a></li>
+                                        <li><a href="career.php">Careers@GIS</a></li>
+                                    </ul>
+
                                 </li>
                             </ul>
                         </nav>
@@ -162,12 +173,8 @@
                         </li>
                         <li class="menu-item-has-children "><a href="#">About Us</a>
                             <ul class="dropdown">
-                                <li class="menu-item-has-children">
-                                <li><a href="">Meet Our Directors</a></li>
-                                <li><a href="">Principal’s Desk</a></li>
-                                <li><a href="">Achievements</a></li>
-                                <li><a href="">Our Facilities</a></li>
-                                <li><a href="">Gallery</a></li>
+                                <li><a href="director.php">Meet Our Directors</a></li>
+                                <li><a href="achievements.php">Achievements</a></li>
                                 <li><a href="">Academic Staff</a></li>
                             </ul>
                         </li>
@@ -181,13 +188,33 @@
                                 <li><a href="">Fee Online</a></li>
                             </ul>
                         </li>
+                        <li class="menu-item-has-children">
+                                    <a class="" href="index.php">Facilities
+            
+                                    <ul class="dropdown">
+                                        <li><a href="">Campus Overview</a></li>
+                                        <li><a href="">Smart Classrooms</a></li>
+                                        <li><a href="">Labs</a></li>
+                                        <li><a href="">Library</a></li>
+                                        <li><a href="">Transport</a></li>
+                                        <li><a href="">Welness Center</a></li>
+                                    </ul>
+                                </li>
                         <li class="menu-item-has-children "><a href="#">Important</a>
                             <ul class="dropdown">
                                 <li><a href="">CIRCULAR</a></li>
                                 <li><a href="">Daily Class Log May Month</a></li>
                             </ul>
                         </li>
+                        <li class="menu-item-has-children"><a href="#">Gallery</a>
+                        </li>
+                        <li class="menu-item-has-children"><a href="#">Hostel</a>
+                        </li>
                         <li class="menu-item-has-children"><a href="#">Contact Us</a>
+                        <ul class="dropdown">
+                                        <li><a href="location_map.php">Location Map</a></li>
+                                        <li><a href="career.php">Careers@GIS</a></li>
+                                    </ul>
                         </li>
                     </ul>
                     </li>
