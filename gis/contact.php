@@ -16,15 +16,9 @@
                         </ul>
                     </div>
                 </div>
-
-
-
             </div>
         </div>
     </div>
-
-
-
 </div>
 <div class="contact__section sp_top_100 sp_bottom_50 aos-init aos-animate" data-aos="fade-up">
     <div class="container">
@@ -70,7 +64,7 @@
                     <div class="contact__text">
                         <h5>Office address</h5>
                         <div class="contact__email">
-                            <p>Vill: Banari, Bilaspur Road, Janjgir,
+                            <p>Vill: Banari, Janjgir Road, Janjgir,
                                 Dist. Janjgir Champa-495668, Chhattisgarh</p>
                             <!-- <span>Eastbourne Terrace</span> -->
 

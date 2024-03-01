@@ -1,6 +1,26 @@
 <?php require_once('header.php') ?>
 <?php require_once('menu.php') ?>
 
+<div class="breadcrumbarea" style="background:url('img/counter.jpg');">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="breadcrumb__content__wraper aos-init aos-animate" data-aos="fade-up">
+                    <div class="breadcrumb__title">
+                        <h2 class="heading">Meet Our Directors</h2>
+                    </div>
+                    <div class="breadcrumb__inner">
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li>Meet Our Directors</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div class="container-fluid mt-3 ">
   <div class="row text-center direc">
     <div class="col-12">

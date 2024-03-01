@@ -33,7 +33,7 @@
                              <h3>
                                  <font ">Prospectus</font> <span><a href="" target="_blank">Click here</a></span>
                              </h3>
-                             <p>Click on the link above to find out more about Delhi Public School Bilaspur.</p>
+                             <p>Click on the link above to find out more about Delhi Public School Janjgir.</p>
                          </div>
                          <span class="number">02</span> <i class="fa fa-leaf" aria-hidden="true"></i>
                      </div>
@@ -48,7 +48,7 @@
                              <h3>
                                  <font ">Career & Guidance Cell</font> <span><a href="">Click here</a></span>
                              </h3>
-                             <p>The Career guidance and counselling programme at DPS Bilaspur aims to help students make more informed and better educational and career choices. </p>
+                             <p>The Career guidance and counselling programme at DPS Janjgir aims to help students make more informed and better educational and career choices. </p>
                          </div>
                          <span class="number">03</span> <i class="fa fa-leaf" aria-hidden="true"></i>
                      </div>
@@ -56,7 +56,7 @@
 
                  <div class="col-sm-12 col-md-6 " style="padding-top:30px">
                      <div class="choose-cnt">
-                         <h2>Welcome to <span>GIS, Bilaspur</span> </h2>
+                         <h2>Welcome to <span>GIS, Janjgir</span> </h2>
                          <p align="justify">Gurukul International School, Janjgir is run by MARS EDUCATION SOCIETY, Janjgir with firm belief that children are valuable assets for our country and we need to invest in their future adequately. Invest not only monetarily however investment in terms of quality education, good habits and better understanding of the challenges upcoming in their future We are committed to provide value based education to the children of our school. </p>
 
                          <div class="equipmets">

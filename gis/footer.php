@@ -30,27 +30,23 @@
                         <div class="footerarea__list">
                             <ul>
                                 <li>
-                                    <a href="#">Home</a>
+                                    <a href="">Home</a>
+                                </li>
+                                
+                                <li>
+                                    <a href="admission-policy.php">Academics</a>
                                 </li>
                                 <li>
-                                    <a href="#">About Us</a>
+                                    <a href="gallery.php">Gallery</a>
                                 </li>
                                 <li>
-                                    <a href="#">Academics</a>
+                                    <a href="labs.php">Facilities</a>
                                 </li>
                                 <li>
-                                    <a href="#">Gallery</a>
-                                </li>
-                                <li>
-                                    <a href="#">Facilities</a>
-                                </li>
-                                <li>
-                                    <a href="#">Contact Us</a>
+                                    <a href="contact.php">Contact Us</a>
                                 </li>
                             </ul>
                         </div>
-
-
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6" data-aos="fade-up">

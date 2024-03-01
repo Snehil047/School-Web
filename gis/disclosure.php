@@ -1,5 +1,25 @@
 <?php require_once('header.php') ?>
 <?php require_once('menu.php') ?>
+
+<div class="breadcrumbarea" style="background:url('img/counter.jpg');">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="breadcrumb__content__wraper aos-init aos-animate" data-aos="fade-up">
+                    <div class="breadcrumb__title">
+                        <h2 class="heading">CBSE Mandatory Disclosure</h2>
+                    </div>
+                    <div class="breadcrumb__inner">
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li>CBSE Mandatory Disclosure</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <div class="container mt-5">
       <div class="row">
         <div class="col-md-8">
@@ -24,7 +44,7 @@
               <tr>
                 <td>1.</td>
                 <td>NAME OF THE SCHOOL</td>
-                <td>GURUNANAK INTERNATIONAL SCHOOL, BILASPUR</td>
+                <td>GURUNANAK INTERNATIONAL SCHOOL, Janjgir</td>
               </tr>
               <tr>
                 <td>2.</td>
@@ -39,7 +59,7 @@
               <tr>
                 <td>4.</td>
                 <td>COMPLETE ADDRESS WITH PIN CODE</td>
-                <td>GURUNANAK INTERNATIONAL SCHOOL, JANJGIR BILASPUR</td>
+                <td>GURUNANAK INTERNATIONAL SCHOOL, Janjgir Janjgir</td>
               </tr>
               <tr>
                 <td>5.</td>

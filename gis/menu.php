@@ -43,7 +43,7 @@
                         <i class="bi bi-geo-alt-fill"></i>
                     </div>
                     <div class="topbar__text">
-                        <p>Banari, Bilaspur Road, Janjgir, Dist. Janjgir Champa- 495668, Chhattisgarh</p>
+                        <p>Banari, Janjgir Road, Janjgir, Dist. Janjgir Champa- 495668, Chhattisgarh</p>
                     </div>
                     <div class="topbar__list">
                         <ul>
@@ -95,12 +95,12 @@
                                     <a class="headerarea__has__dropdown" href="index.php">Facilities
                                         <i class="icofont-rounded-down"></i></a>
                                     <ul class="headerarea__submenu">
-                                        <li><a href="">Campus Overview</a></li>
-                                        <li><a href="">Smart Classrooms</a></li>
-                                        <li><a href="">Labs</a></li>
-                                        <li><a href="">Library</a></li>
-                                        <li><a href="">Transport</a></li>
-                                        <li><a href="">Welness Center</a></li>
+                                        <li><a href="campus.php">Campus Overview</a></li>
+                                        <li><a href="smart-class.php">Smart Classrooms</a></li>
+                                        <li><a href="labs.php">Labs</a></li>
+                                        <li><a href="library.php">Library</a></li>
+                                        <li><a href="transport.php">Transport</a></li>
+                                        <li><a href="sports.php">Sports</a></li>
                                     </ul>
                                 </li>
                                 <li><a class="headerarea__has__dropdown" href="">Academics
@@ -108,17 +108,14 @@
                                     </a>
                                     <ul class="headerarea__submenu">
                                         <li><a href="online-admission.php">Online Admission Form</a></li>
-                                        <li><a href="">Admissions</a></li>
-                                        <li><a href="">Fees</a></li>
-                                        <li><a href="">Mess fee</a></li>
+                                        <li><a href="admission-policy.php">Admission Policy</a></li>
+                                        <li><a href="fees.php">Fees</a></li>
+                                        <li><a href="mess-fees.php">Mess fee</a></li>
                                         <li><a href="">Fee Online</a></li>
                                     </ul>
                                 </li>
                                 <li><a class="headerarea__has__dropdown" href="gallery.php">Gallery
                                     </a>
-                                </li>
-                                <li class="mega__menu position-static">
-                                    <a class="headerarea__has__dropdown" href="contact.php">Hostel</a>
                                 </li>
                                 <li class="headerarea__has__dropdown">
                                     <a class="headerarea__has__dropdown" href="contact.php">Contact Us
@@ -169,8 +166,6 @@
                     <ul class="mobile-menu">
                         <li class="menu-item-has-children"><a href="#">Home</a>
                         </li>
-                        <li class="menu-item-has-children"><a href="#">School Profile</a>
-                        </li>
                         <li class="menu-item-has-children "><a href="#">About Us</a>
                             <ul class="dropdown">
                                 <li><a href="director.php">Meet Our Directors</a></li>
@@ -181,36 +176,28 @@
                         <li class="menu-item-has-children "><a href="#">Academics</a>
                             <ul class="dropdown">
                                 <li class="menu-item-has-children">
-                                <li><a href="">Online Admission Form</a></li>
-                                <li><a href="">Admissions</a></li>
-                                <li><a href="">Fees</a></li>
-                                <li><a href="">Mess fee</a></li>
-                                <li><a href="">Fee Online</a></li>
+                                <li><a href="online-admission.php">Online Admission Form</a></li>
+                                <li><a href="admission-policy.php">Admission Policy</a></li>
+                                <li><a href="fees.php">Fees</a></li>
+                                <li><a href="mess-fees.php">Mess fee</a></li>
+                                <li><a href="#">Fee Online</a></li>
                             </ul>
                         </li>
                         <li class="menu-item-has-children">
                                     <a class="" href="index.php">Facilities
             
                                     <ul class="dropdown">
-                                        <li><a href="">Campus Overview</a></li>
-                                        <li><a href="">Smart Classrooms</a></li>
-                                        <li><a href="">Labs</a></li>
-                                        <li><a href="">Library</a></li>
-                                        <li><a href="">Transport</a></li>
-                                        <li><a href="">Welness Center</a></li>
+                                        <li><a href="campus.php">Campus Overview</a></li>
+                                        <li><a href="smart-class.php">Smart Classrooms</a></li>
+                                        <li><a href="labs.php">Labs</a></li>
+                                        <li><a href="library.php">Library</a></li>
+                                        <li><a href="transport.php">Transport</a></li>
+                                        <li><a href="sports.php">Sports</a></li>
                                     </ul>
                                 </li>
-                        <li class="menu-item-has-children "><a href="#">Important</a>
-                            <ul class="dropdown">
-                                <li><a href="">CIRCULAR</a></li>
-                                <li><a href="">Daily Class Log May Month</a></li>
-                            </ul>
+                        <li class="menu-item-has-children"><a href="gallery.php">Gallery</a>
                         </li>
-                        <li class="menu-item-has-children"><a href="#">Gallery</a>
-                        </li>
-                        <li class="menu-item-has-children"><a href="#">Hostel</a>
-                        </li>
-                        <li class="menu-item-has-children"><a href="#">Contact Us</a>
+                        <li class="menu-item-has-children"><a href="contact.php">Contact Us</a>
                         <ul class="dropdown">
                                         <li><a href="location_map.php">Location Map</a></li>
                                         <li><a href="career.php">Careers@GIS</a></li>

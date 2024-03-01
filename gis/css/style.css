@@ -13973,3 +13973,54 @@ table tbody td {
   border: none;
   margin: 15px;
 }
+
+.campus-over {
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+.campus-over h1 {
+  text-transform: capitalize;
+}
+
+@media (max-width: 767px) {
+  .campus-over iframe {
+    width: 350px;
+    height: 300px;
+  }
+}
+
+.smart-class img {
+  width: 550px;
+  height: 350px;
+  border-radius: 14px;
+}
+
+.smart-class p {
+  text-align: justify;
+}
+
+.admission-policy ul li {
+  list-style: disc;
+}
+
+#prospectus-sheet tr td {
+  border: 1px solid black;
+}
+
+.transport-header table tbody th tr td {
+  border: 1px solid black;
+}
+
+.mess tr td {
+  border: 1px solid black;
+}
+.mess tr th {
+  border: 1px solid black;
+}
+
+.mess-1 img {
+  width: 400px;
+  height: 250px;
+  border-radius: 14px;
+}
