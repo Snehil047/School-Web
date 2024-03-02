@@ -3,7 +3,7 @@
     <div class="">
         <div class="top-nav">
             <ul>
-                <li><a href="#"><i class="fa-solid fa-house"></i> Home</a></li>
+                <li><a href="index.php"><i class="fa-solid fa-house"></i> Home</a></li>
                 <li><a href="disclosure.php" class="disclosure"> CBSE Mandatory Disclosure</a></li>
                 <li><a href="#" class="phone"><i class="fa-solid fa-phone-volume"></i> +91-8184071000</a></li>
                 <li><a href="#" class="whats"><i class="fa-brands fa-whatsapp"></i> +91-8184072000</a></li>
@@ -70,7 +70,7 @@
                 <div class="col-md-4">
                     <div class="headerarea__left">
                         <div class="headerarea__left__logo rounded mx-auto d-block">
-                            <a href="index.php"><img class="img-fluid" style="    width: 112px;" src="img/logo.png" alt="logo"></a>
+                            <a href="index.php"><img class="img-fluid" style="width: 112px;" src="img/logo.png" alt="logo"></a>
                         </div>
                     </div>
                 </div>
@@ -136,7 +136,7 @@
             <div class="row align-items-center">
                 <div class="col-6">
                     <div class="mobile-logo">
-                        <a class="logo__dark" href="#"><img src="img/logo.png" alt="logo"></a>
+                        <a class="logo__dark" href="index.php"><img src="img/logo.png" alt="logo"></a>
                     </div>
                 </div>
                 <div class="col-6">
@@ -164,7 +164,7 @@
             <div class="mobile-navigation">
                 <nav>
                     <ul class="mobile-menu">
-                        <li class="menu-item-has-children"><a href="#">Home</a>
+                        <li class="menu-item-has-children"><a href="index.php">Home</a>
                         </li>
                         <li class="menu-item-has-children "><a href="#">About Us</a>
                             <ul class="dropdown">

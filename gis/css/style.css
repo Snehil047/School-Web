@@ -14024,3 +14024,22 @@ table tbody td {
   height: 250px;
   border-radius: 14px;
 }
+
+.gallery_product img {
+  width: 365px;
+  height: 265px;
+  border-radius: 14px;
+}
+
+@media (max-width: 767px) {
+  #prospectus-sheet table {
+    width: 400px;
+  }
+
+  .smart-class img {
+    width: 350px;
+    margin-top: 15px;
+    margin-left: 20px;
+    height: 200px;
+  }
+}

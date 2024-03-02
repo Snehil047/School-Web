@@ -21,14 +21,6 @@
     </div>
 </div>
 
-<div class="container-fluid mt-3 ">
-  <div class="row text-center direc">
-    <div class="col-12">
-      <h1>MEET OUR DIRECTORS</h1>
-    </div>
-  </div>
-</div>
-
 <section>
   <div class="container directors mt-5">
     <div class="row">

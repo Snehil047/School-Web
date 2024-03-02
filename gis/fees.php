@@ -39,7 +39,6 @@
                 <div class="vc_wp_text wpb_content_element">
                   <div class="widget widget_text">
                     <div class="textwidget">
-                      <p></p>
                       <table id="prospectus-sheet" class="responsive" style="background: #fff; border-botttom: 1px solid #000;">
                         <tbody>
                           <tr id="prospectus">
@@ -166,7 +165,7 @@
                               <th>TRANSPORT FEE (for 10 months)</th>
                               <th>Up to 10 Km</th>
                               <th>10 – 15 Km</th>
-                              <th>15 – 20 Km</th>
+                              <th>15 – 20 Km</th> 
                               <th>20 – 30 Km</th>
                               <th>30 – 40 Km</th>
                               <th>40 – 50 Km</th>
